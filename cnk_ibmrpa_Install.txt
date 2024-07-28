@@ -1,0 +1,40 @@
+Windows server 2022 activation:
+Activation:
+dism /online /set-edition:serverdatacenter /productkey:WX4NM-KYWYW-QJJR4-XV3QB-6VM33 /accepteula
+
+Pranav Login(System Login):
+userlogin: Administrator
+password: Admin@123
+userlogin: svc_admin
+password: Pranav@123
+
+SQL Server 2022 Details:
+
+Login: Pranav\svc_admin (windows Authentitcation)
+password: Pranav@123
+
+SQL Server login Details:
+Server: Pranav
+username: svc_sql_admin
+password: Pranav@123
+
+
+
+SMTP:
+Cnkibmrpadev1@mail.com
+Pranav@July2024
+
+
+Server=Pranav;Database=ADDRESS;User Id=svc_sql_admin;Password=Pranav@123;
+Server=Pranav;Database=AUDIT;User Id=svc_sql_admin;Password=Pranav@123;
+Server=Pranav;Database=AUTOMATION;User Id=svc_sql_admin;Password=Pranav@123;
+Server=Pranav;Database=KNOWLEDGE;User Id=svc_sql_admin;Password=Pranav@123;
+Server=Pranav;Database=WORDNET;User Id=svc_sql_admin;Password=Pranav@123;
+
+Ports Information For ibmrpa:
+
+
+
+
+ibmrpa labs:
+https://ibm.ent.box.com/v/IBM--RPA-Labs-and-Demos

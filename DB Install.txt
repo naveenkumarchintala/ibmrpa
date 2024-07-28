@@ -1,0 +1,41 @@
+
+https://www.ibm.com/docs/en/rpa/23.0?topic=environment-set-up-databases
+
+
+
+Server : DESKTOP-VGU2T76
+
+Instance ID: MSSQLSERVER
+
+
+User:sivaji
+Pass:Test@123
+
+SMTP
+
+ibmrpadev@mail.com
+Test@123
+
+
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sivaji;Initial Catalog=ADDRESS;Data Source=DESKTOP-VGU2T76
+
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sivaji;Initial Catalog=AUDIT;Data Source=DESKTOP-VGU2T76
+
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sivaji;Initial Catalog=AUTOMATION;Data Source=DESKTOP-VGU2T76
+
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sivaji;Initial Catalog=KNOWLEDGE;Data Source=DESKTOP-VGU2T76
+
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sivaji;Initial Catalog=WORDNET;Data Source=DESKTOP-VGU2T76
+
+
+Server=DESKTOP-VGU2T76;Database=ADDRESS;User Id=sivaji;Password=Test@123;
+Server=DESKTOP-VGU2T76;Database=AUDIT;User Id=sivaji;Password=Test@123;
+Server=DESKTOP-VGU2T76;Database=AUTOMATION;User Id=sivaji;Password=Test@123;
+Server=DESKTOP-VGU2T76;Database=KNOWLEDGE;User Id=sivaji;Password=Test@123;
+Server=DESKTOP-VGU2T76;Database=WORDNET;User Id=sivaji;Password=Test@123;
+
+Server=<SERVER_ADDRESS>;Database=<DATABASE_NAME>;User Id=<USERNAME>;Password=<PASSWORD>;
+
+Server=<SERVER_ADDRESS>;Database=<DATABASE_NAME>;User Id=<USERNAME>;Password=<PASSWORD>;
+Server=<SERVER_ADDRESS>;Database=<DATABASE_NAME>;User Id=<USERNAME>;Password=<PASSWORD>;
+Server=<SERVER_ADDRESS>;Database=<DATABASE_NAME>;User Id=<USERNAME>;Password=<PASSWORD>;

@@ -1,0 +1,6 @@
+RAm 24576
+Server_Eval_64_FRE_en-us.iso
+
+userlogin: Administrator
+password: Admin@123
+

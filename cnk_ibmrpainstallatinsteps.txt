@@ -1,0 +1,16 @@
+Install Microsoft Sql Server
+Note server name and instance
+create a service account and setup user roles same as Administrator
+create a SMTP mail from mail.com (gmail doesnt work)
+save user id and password for SMTP mail
+create databases in sql server
+    -> follow steps from this document:
+        https://www.ibm.com/docs/en/rpa/23.0?topic=environment-set-up-databases#create-the-databases
+
+
+
+
+
+
+ibmrpa Labs:
+https://ibm.ent.box.com/v/IBM--RPA-Labs-and-Demos
