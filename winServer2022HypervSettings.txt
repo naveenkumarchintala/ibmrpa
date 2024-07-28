@@ -4,3 +4,5 @@ Server_Eval_64_FRE_en-us.iso
 userlogin: Administrator
 password: Admin@123
 
+username: svc_admin
+password: Admin@123
